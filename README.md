@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divyanshu978
-- 👀 I’m interested in web development and blockchain
+- 👀 I’m interested in full stack web development and blockchain
 - 🌱 I’m currently learning react j.s.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - divyanshuuttam978@gmail.com
